@@ -7,7 +7,9 @@ Experimenting with a Recipe App using Node/Express
 * Axios (for API usage)
 
 # How to run
-``` node index.js ```
+```bash 
+node index.js 
+```
 Then go to localhost:3000
 
 # Preview of the application
